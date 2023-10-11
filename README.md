@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @ktmcghee
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ktmcghee/ktmcghee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![aspensabyss](https://github.com/ktmcghee/ktmcghee/assets/147283249/0c7d8d50-b47a-4f9d-ba18-4d3bb1027362)
+![more_aspens](https://github.com/ktmcghee/ktmcghee/assets/147283249/bfc3ba33-d6ea-4b4c-9167-e45ce9618c4e)
+![aspenup](https://github.com/ktmcghee/ktmcghee/assets/147283249/66ac3266-7245-4ebe-b682-f2f396f5dbcb)
